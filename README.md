@@ -1,4 +1,5 @@
 #Group Project
 
-##NBA Hotel Management Database
-
+<ul>
+NBA Hotel Management Database
+</ul>
