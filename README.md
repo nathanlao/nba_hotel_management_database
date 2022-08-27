@@ -30,3 +30,5 @@
 2. Have all the files stored in /Applications/XAMPP/xamppfiles/htdocs
 3. Copy and paste the SQL table creation and value insertion script.
 4. Run the application on localhost: [http://localhost/p1-page1.html](http://localhost/p1-page1.html).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
