@@ -8,7 +8,7 @@
 </p>
 
 * This database project contains front-end and back-end tech stack, but more focus on back-end.
-* This database project is towards efficient management during a pandemic, namely Covid-19.
+* This database project towards efficient management during a pandemic, namely Covid-19.
 
 * This database project hosts for four potential types of users, including hotel staff, NBA members, consisting of both basketball players and team staff, then Media members and also fans.
 
